@@ -1,0 +1,131 @@
+{
+  "personal": {
+    "name": "Muhammed Mishab",
+    "shortName": "Mishab",
+    "title": "Frontend Developer",
+    "tagline": "Hello, I'm",
+    "bio": "I'm a front-end developer skilled in HTML, CSS, JavaScript, and React.js, with a focus on building responsive and interactive web interfaces. I use Tailwind CSS to create sleek, modern designs and have experience delivering dynamic, user-friendly experiences across a range of projects.",
+    "location": "Eranikode, Pulpatta, Pulpatta (P.O), Manjeri, Malappuram",
+    "email": "muhammedmishab002@gmail.com",
+    "phones": ["+91 9061988146", "+91 9048381579"],
+    "primaryPhone": "9061988146",
+    "cvFile": "/img/latestcv.pdf",
+    "logo": "/img/mylogo1.jpg",
+    "favicon": "/img/logo3.png",
+    "heroImage": "/img/mylogo2.png",
+    "aboutImage": "/img/dp-2.jpg"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/muhammed-mishab-pc-b151ab242/",
+    "github": "https://github.com/mishab777",
+    "whatsapp": "https://wa.me/9061988146/?text=Hi%20Mishab%2C%20I%20saw%20your%20portfolio%20and%20am%20interested%20in%20your%20front-end%20development%20services.%20Can%20we%20chat%3F",
+    "instagram": "https://www.instagram.com/_mis.hab_?igsh=eHY0MWJ0a3Rkd3F1",
+    "twitter": "https://x.com/Mishabpc77"
+  },
+  "skills": [
+    {
+      "category": "Software Skills",
+      "items": [
+        { "name": "HTML",         "level": 90, "icon": "/img/html.png" },
+        { "name": "CSS",          "level": 90, "icon": "/img/css.png" },
+        { "name": "JavaScript",   "level": 80, "icon": "/img/js.png" },
+        { "name": "Bootstrap",    "level": 75, "icon": "/img/bootstrap.png" },
+        { "name": "React",        "level": 90, "icon": "/img/react.png" },
+        { "name": "React Native", "level": 65, "icon": "/img/native.png" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Positive Properties",
+      "description": "Real-estate marketing site for Positive Properties UAE.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/positive.png",
+      "liveUrl": "https://www.positivepropertiesuae.com/",
+      "repoUrl": null
+    },
+    {
+      "title": "Chronocorp",
+      "description": "Corporate website for Chronocorp.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/ccssnew.png",
+      "liveUrl": "https://www.chronocorp.ae/",
+      "repoUrl": null
+    },
+    {
+      "title": "Domaine Properties",
+      "description": "Real-estate site for Domaine Properties.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/domainss.png",
+      "liveUrl": "https://www.domaine-properties.com/",
+      "repoUrl": null
+    },
+    {
+      "title": "Monarch Capital",
+      "description": "Financial services website for Monarch Capital.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/monarch.png",
+      "liveUrl": "https://www.m-capital.co/",
+      "repoUrl": null
+    },
+    {
+      "title": "Delemon Technology",
+      "description": "Technology services / agency website.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/dtss.png",
+      "liveUrl": "https://www.delemontechnology.com/",
+      "repoUrl": null
+    },
+    {
+      "title": "Young & Right",
+      "description": "Auditing / consulting agency website.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "image": "/img/yrss.png",
+      "liveUrl": "https://www.youngandright.ae/",
+      "repoUrl": null
+    }
+  ],
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "company": "Interval Learning Platform",
+      "duration": "2+ years",
+      "description": "2+ years in frontend development, currently working at Interval Learning Platform.",
+      "icon": "/img/certificate.png"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Calicut",
+      "year": "2020-23",
+      "icon": "/img/education.png"
+    }
+  ],
+  "navigation": [
+    { "label": "About",    "href": "#about" },
+    { "label": "Skills",   "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Contact",  "href": "#contact" }
+  ],
+  "contact": {
+    "addressIcon": "/img/address.png",
+    "phoneIcon":   "/img/phone.png",
+    "mailIcon":    "/img/mail.png",
+    "formProvider": "web3forms",
+    "formAction":  "https://api.web3forms.com/submit",
+    "formAccessKey": "9af8ceef-0cda-45f9-914a-676528f3b8e4",
+    "formSubject": "Contact From My Portfolio"
+  },
+  "theme": {
+    "primaryBackground": "#000000",
+    "cardBackground":    "#1A1A1A",
+    "barBackground":     "#FFFFFF",
+    "barFill":           "rgb(142, 142, 142)",
+    "textPrimary":       "#FFFFFF",
+    "textSecondary":     "rgb(226, 226, 226)",
+    "fontFamily":        "Josefin Sans, sans-serif",
+    "designStyle":       "Dark, minimal, monochrome — black canvas with #1A1A1A cards, white text and accents, rounded pill buttons, simple progress bars, no gradients."
+  },
+  "copyright": "Copyright © 2026 | By Mdes&co | All rights reserved"
+}
